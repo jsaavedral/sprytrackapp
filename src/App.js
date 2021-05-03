@@ -19,6 +19,26 @@ function App() {
           Learn SpryTrack
           Learn SpryTrack
         </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn SpryTrack
+          Learn SpryTrack
+          Learn SpryTrack
+        </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn SpryTrack
+          Learn SpryTrack
+          Learn SpryTrack
+        </a>
       </header>
     </div>
   );
