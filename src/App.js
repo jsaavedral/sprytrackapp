@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn SpryTrack
+          Learn SpryTrack
+          Learn SpryTrack
         </a>
       </header>
     </div>
