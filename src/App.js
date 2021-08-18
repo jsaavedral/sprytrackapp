@@ -33,7 +33,7 @@ function App() {
         >
           Amazon AWS Amplify
         </a>
-        <a href="mailto:cheap.spa.web@gmail.com?subject=Information Request&body=Hi, please send me more information about Cheap SPA Websites. Thank you! Kind regards!">Send Email</a>  
+        <a href="mailto:cheap.spa.web@gmail.com?subject=Information Request&body=Hi, please send me more information about Cheap SPA Websites. Thank you! Kind regards!" style="text-decoration:none">Send Email</a>
       </header>
     </div>
   );
