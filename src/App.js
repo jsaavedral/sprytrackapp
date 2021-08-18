@@ -34,6 +34,7 @@ function App() {
           Amazon AWS Amplify
         </a>        
         <a href = "mailto: cheap.spa.web@gmail.com">Send Email</a>
+        <a href = "mailto:cheap.spa.web@gmail.com?subject = Information request&body = Message">Send Email</a>
       </header>
     </div>
   );
