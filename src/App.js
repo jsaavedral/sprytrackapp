@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Amazon AWS S3 Princing 
+          Amazon AWS S3 Princing
         </a>
         <a
           className="App-link"
@@ -32,9 +32,12 @@ function App() {
           rel="noopener noreferrer"
         >
           Amazon AWS Amplify
-        </a>        
-        <a href = "mailto: cheap.spa.web@gmail.com">Send Email</a>
-        <a href = "mailto:cheap.spa.web@gmail.com?subject = Information request&body = Message">Send Email</a>
+        </a>
+        <a href="mailto: cheap.spa.web@gmail.com">Send Email</a>
+        <a href="mailto:cheap.spa.web@gmail.com?subject = Information request&body = Message">Send Email</a>
+        <a href="mailto:abc@example.com?subject = Feedback&body = Message">
+          Send Feedback
+        </a>
       </header>
     </div>
   );
