@@ -14,7 +14,6 @@ function App() {
           href="https://aws.amazon.com/s3/pricing/"
           target="_blank"
           rel="noopener noreferrer"
-          style="text-decoration:none"
         >
           Check out: Amazon AWS S3 Princing
         </a>
@@ -23,7 +22,6 @@ function App() {
           href="https://aws.amazon.com/free/"
           target="_blank"
           rel="noopener noreferrer"
-          style="text-decoration:none"
         >
           Check out: Amazon AWS Free Tier
         </a>
@@ -32,7 +30,6 @@ function App() {
           href="https://aws.amazon.com/amplify/"
           target="_blank"
           rel="noopener noreferrer"
-          style="text-decoration:none"
         >
           Check out: Amazon AWS Amplify
         </a>
