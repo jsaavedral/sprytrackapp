@@ -27,6 +27,14 @@ function App() {
         </a>
         <a
           className="App-link"
+          href="https://aws.amazon.com/amplify/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Amazon AWS Amplify
+        </a>        
+        <a
+          className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
