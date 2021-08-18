@@ -7,9 +7,38 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cheap SPA (Single Page Application) Websites using AWS Amazon Web Services!
+          Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a href="mailto:cheap.spa.web@gmail.com?subject=Information Request&body=Hi, please send me more information about Cheap SPA Websites. Thank you! Kind regards!" style="text-decoration:none">Send Email</a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn SpryTrack
+          Learn SpryTrack
+          Learn SpryTrackz
+        </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn SpryTrack
+          Learn SpryTrack
+          Learn SpryTrack
+        </a>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn SpryTrack
+          Learn SpryTrack
+          Learn SpryTrack
+        </a>
       </header>
     </div>
   );
