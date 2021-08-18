@@ -38,6 +38,9 @@ function App() {
         <a href="mailto:abc@example.com?subject = Feedback&body = Message">
           Send Feedback
         </a>
+
+        <a href="mailto:someone@yoursite.com?cc=someoneelse@theirsite.com, another@thatsite.com, me@mysite.com&bcc=lastperson@theirsite.com&subject=Big%20News&body=Body-goes-here">Email Us</a>
+
       </header>
     </div>
   );
