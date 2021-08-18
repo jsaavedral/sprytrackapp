@@ -33,16 +33,7 @@ function App() {
         >
           Amazon AWS Amplify
         </a>        
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn SpryTrack
-          Learn SpryTrack
-          Learn SpryTrack
-        </a>
+        <a href = "mailto: cheap.spa.web@gmail.com">Send Email</a>
       </header>
     </div>
   );
