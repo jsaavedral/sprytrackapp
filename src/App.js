@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cheap SPA (Single Page Application) Websites using AWS!
+          Cheap SPA (Single Page Application) Websites using AWS Amazon Web Services!
         </p>
-        <a
+        {/* <a
           className="App-link"
           href="https://aws.amazon.com/s3/pricing/"
           target="_blank"
@@ -25,7 +25,7 @@ function App() {
         >
           Check out: Amazon AWS Free Tier
         </a>
-        <a
+        <a 
           className="App-link"
           href="https://aws.amazon.com/amplify/"
           target="_blank"
@@ -33,6 +33,7 @@ function App() {
         >
           Check out: Amazon AWS Amplify
         </a>
+        */}
         <a href="mailto:cheap.spa.web@gmail.com?subject=Information Request&body=Hi, please send me more information about Cheap SPA Websites. Thank you! Kind regards!" style="text-decoration:none">Send Email</a>
       </header>
     </div>
