@@ -11,13 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aws.amazon.com/s3/pricing/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn SpryTrack
-          Learn SpryTrack
-          Learn SpryTrack
+          Amazon AWS S3 Princing 
         </a>
         <a
           className="App-link"
