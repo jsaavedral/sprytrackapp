@@ -11,34 +11,29 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aws.amazon.com/s3/pricing/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn SpryTrack
-          Learn SpryTrack
-          Learn SpryTrackz
+          Check out: Amazon AWS S3 Princing
         </a>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aws.amazon.com/free/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn SpryTrack
-          Learn SpryTrack
-          Learn SpryTrack
+          Check out: Amazon AWS Free Tier
         </a>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aws.amazon.com/amplify/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn SpryTrack
-          Learn SpryTrack
-          Learn SpryTrack
+          Check out: Amazon AWS Amplify
         </a>
+        <a href="mailto:cheap.spa.web@gmail.com?subject=Information Request&body=Hi, please send me more information about Cheap SPA Websites. Thank you! Kind regards!" style="text-decoration:none">Send Email</a>
       </header>
     </div>
   );
