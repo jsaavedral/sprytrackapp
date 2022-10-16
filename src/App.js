@@ -28,8 +28,8 @@ function App() {
                     </div>
 
                     <div class="card">
-                        <a href="https://angularjs.org/" target="_blank"><img src="https://angularjs.org/img/ng-logo.png"/>
-                            Angular.js
+                        <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.png"/>
+                            Angular.io
                         </a>
                     </div>
 
