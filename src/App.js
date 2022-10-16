@@ -9,7 +9,7 @@ function App() {
                     className="App-logo"
                     alt="logo"/>
                 <h3>
-                    Cheap SPA (Single Page Application) Websites using AWS Amazon Web Services!
+                    Create low-priced one page websites using AWS Amazon Web Services!
                 </h3>
 
                 <div class="wrapper">
